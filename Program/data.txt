@@ -1,0 +1,4 @@
+character Information
+Health : 
+Attack : 
+Defense : 
