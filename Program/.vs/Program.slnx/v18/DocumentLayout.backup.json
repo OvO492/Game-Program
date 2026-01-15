@@ -7,10 +7,10 @@
       "RelativeMoniker": "D:0:0:{474D65A7-E6DA-4AE4-877C-1FB7ABEF4185}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E728ECFF-6BD6-4271-A83C-260797C0244A}|..\\Class2th (Time)\\Class2th (Time).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class2th (Time)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F5992D63-6FFE-4C9A-8860-BEA16F92D040}|..\\Class1th (Input System)\\Class1th (Input System).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class1th (Input System)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5992D63-6FFE-4C9A-8860-BEA16F92D040}|..\\Class1th (Input System)\\Class1th (Input System).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class1th (Input System)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E728ECFF-6BD6-4271-A83C-260797C0244A}|..\\Class2th (Time)\\Class2th (Time).vcxproj|C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class2th (Time)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,28 +24,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class2th (Time)\\source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Time)\\source.c",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class2th (Time)\\source.c",
               "RelativeToolTip": "..\\Class2th (Time)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-14T12:16:12.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class1th (Input System)\\source.c",
               "RelativeDocumentMoniker": "..\\Class1th (Input System)\\source.c",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Class1th (Input System)\\source.c",
               "RelativeToolTip": "..\\Class1th (Input System)\\source.c",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-13T11:12:44.467Z"
+              "WhenOpened": "2026-01-13T11:12:44.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +56,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Nalka\\OneDrive\\Desktop\\Game-Program\\Program\\source.c*",
               "RelativeToolTip": "source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T11:10:49.215Z",
               "EditorCaption": ""

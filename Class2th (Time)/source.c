@@ -2,18 +2,18 @@
 
 
 
- //void shuffle(int array[], int size)
-// {
- //    for (int i = 0; i < size; i++)
- //   {
- //        int seed = rand() % size;
+// void shuffle(int array[], int size)
+//  {
+//     for (int i = 0; i < size; i++)
+//    {
+//         int seed = rand() % size;
 
- //        int temporary = array[seed];
+//         int temporary = array[seed];
 
-    //     array[seed] = array[i];
+//         array[seed] = array[i];
 
-    //     array[i] = temporary;
-   //  }
+//         array[i] = temporary;
+//     }
 // }
 
 
