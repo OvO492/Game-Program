@@ -1,3 +1,1 @@
-﻿  source.c
-C:\Users\Nalka\Desktop\Game-Program\Program\source.c(47,25): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
-C:\Users\Nalka\Desktop\Game-Program\Program\source.c(50,23): warning C4552: '+': 식의 결과가 사용되지 않습니다.
+﻿LINK : fatal error LNK1168: C:\Users\Nalka\Desktop\Game-Program\Program\x64\Debug\Program.exe을(를) 쓰기용으로 열 수 없습니다.
